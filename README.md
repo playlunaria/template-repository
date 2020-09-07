@@ -1,10 +1,10 @@
 # Template Repository
 
-_A repository used by Launch Complex 34 as a template for new projects._
+_A repository used by Lunaria as a template for new projects._
 
-This is a template repository used by Launch Complex 34 to create new projects.
-It features a common settings and tools, and provides a consistent setup for
-new projects.
+This is a template repository used by Lunaria to create new projects. It
+features a common settings and tools, and provides a consistent setup for new
+projects.
 
 ## License
 
